@@ -16,6 +16,7 @@
 		0E38A03814C4BC1A00DD00A9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E38A03614C4BC1A00DD00A9 /* MainStoryboard.storyboard */; };
 		0E38A03B14C4BC1A00DD00A9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E38A03A14C4BC1A00DD00A9 /* ViewController.m */; };
 		0E38A04314C4BC3100DD00A9 /* ThingWithAQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E38A04214C4BC3100DD00A9 /* ThingWithAQueue.m */; };
+		0E38A04914C4BFA800DD00A9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0E38A04814C4BFA800DD00A9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		0E38A03A14C4BC1A00DD00A9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0E38A04114C4BC3100DD00A9 /* ThingWithAQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThingWithAQueue.h; sourceTree = "<group>"; };
 		0E38A04214C4BC3100DD00A9 /* ThingWithAQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThingWithAQueue.m; sourceTree = "<group>"; };
+		0E38A04814C4BFA800DD00A9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		0E38A01514C4BC1A00DD00A9 = {
 			isa = PBXGroup;
 			children = (
+				0E38A04814C4BFA800DD00A9 /* README.md */,
 				0E38A02A14C4BC1A00DD00A9 /* GDCQueueDeallocTest */,
 				0E38A02314C4BC1A00DD00A9 /* Frameworks */,
 				0E38A02114C4BC1A00DD00A9 /* Products */,
@@ -156,6 +159,7 @@
 			files = (
 				0E38A02F14C4BC1A00DD00A9 /* InfoPlist.strings in Resources */,
 				0E38A03814C4BC1A00DD00A9 /* MainStoryboard.storyboard in Resources */,
+				0E38A04914C4BFA800DD00A9 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +285,7 @@
 				0E38A04014C4BC1A00DD00A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
